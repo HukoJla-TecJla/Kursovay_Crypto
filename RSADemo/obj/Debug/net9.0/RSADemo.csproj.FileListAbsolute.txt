@@ -1,0 +1,14 @@
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/bin/Debug/net9.0/RSADemo
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/bin/Debug/net9.0/RSADemo.deps.json
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/bin/Debug/net9.0/RSADemo.runtimeconfig.json
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/bin/Debug/net9.0/RSADemo.dll
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/bin/Debug/net9.0/RSADemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/RSADemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/RSADemo.AssemblyInfoInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/RSADemo.AssemblyInfo.cs
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/RSADemo.csproj.CoreCompileInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/RSADemo.dll
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/refint/RSADemo.dll
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/RSADemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/RSADemo.genruntimeconfig.cache
+/Users/kirillovmihail/EncryptionCoursework/RSADemo/obj/Debug/net9.0/ref/RSADemo.dll

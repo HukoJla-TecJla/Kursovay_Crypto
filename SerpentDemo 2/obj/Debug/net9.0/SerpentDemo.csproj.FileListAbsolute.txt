@@ -1,0 +1,28 @@
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/bin/Debug/net9.0/SerpentDemo
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/bin/Debug/net9.0/SerpentDemo.deps.json
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/bin/Debug/net9.0/SerpentDemo.runtimeconfig.json
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/bin/Debug/net9.0/SerpentDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/bin/Debug/net9.0/SerpentDemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/SerpentDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/SerpentDemo.AssemblyInfoInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/SerpentDemo.AssemblyInfo.cs
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/SerpentDemo.csproj.CoreCompileInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/SerpentDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/refint/SerpentDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/SerpentDemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/SerpentDemo.genruntimeconfig.cache
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo/obj/Debug/net9.0/ref/SerpentDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/bin/Debug/net9.0/SerpentDemo
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/bin/Debug/net9.0/SerpentDemo.deps.json
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/bin/Debug/net9.0/SerpentDemo.runtimeconfig.json
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/bin/Debug/net9.0/SerpentDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/bin/Debug/net9.0/SerpentDemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/SerpentDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/SerpentDemo.AssemblyInfoInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/SerpentDemo.AssemblyInfo.cs
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/SerpentDemo.csproj.CoreCompileInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/SerpentDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/refint/SerpentDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/SerpentDemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/SerpentDemo.genruntimeconfig.cache
+/Users/kirillovmihail/EncryptionCoursework/SerpentDemo 2/obj/Debug/net9.0/ref/SerpentDemo.dll
