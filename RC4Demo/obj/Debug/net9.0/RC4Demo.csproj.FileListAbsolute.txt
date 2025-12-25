@@ -1,0 +1,14 @@
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/bin/Debug/net9.0/RC4Demo
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/bin/Debug/net9.0/RC4Demo.deps.json
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/bin/Debug/net9.0/RC4Demo.runtimeconfig.json
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/bin/Debug/net9.0/RC4Demo.dll
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/bin/Debug/net9.0/RC4Demo.pdb
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/RC4Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/RC4Demo.AssemblyInfoInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/RC4Demo.AssemblyInfo.cs
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/RC4Demo.csproj.CoreCompileInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/RC4Demo.dll
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/refint/RC4Demo.dll
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/RC4Demo.pdb
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/RC4Demo.genruntimeconfig.cache
+/Users/kirillovmihail/EncryptionCoursework/RC4Demo/obj/Debug/net9.0/ref/RC4Demo.dll

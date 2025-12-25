@@ -1,0 +1,14 @@
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/bin/Debug/net9.0/EncryptionCoursework
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/bin/Debug/net9.0/EncryptionCoursework.deps.json
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/bin/Debug/net9.0/EncryptionCoursework.runtimeconfig.json
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/bin/Debug/net9.0/EncryptionCoursework.dll
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/bin/Debug/net9.0/EncryptionCoursework.pdb
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/EncryptionCoursework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/EncryptionCoursework.AssemblyInfoInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/EncryptionCoursework.AssemblyInfo.cs
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/EncryptionCoursework.csproj.CoreCompileInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/EncryptionCoursework.dll
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/refint/EncryptionCoursework.dll
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/EncryptionCoursework.pdb
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/EncryptionCoursework.genruntimeconfig.cache
+/Users/kirillovmihail/EncryptionCoursework/EncryptionCoursework/obj/Debug/net9.0/ref/EncryptionCoursework.dll
