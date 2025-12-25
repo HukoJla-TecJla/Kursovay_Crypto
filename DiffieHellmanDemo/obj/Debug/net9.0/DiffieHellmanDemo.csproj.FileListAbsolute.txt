@@ -1,0 +1,14 @@
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/bin/Debug/net9.0/DiffieHellmanDemo
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/bin/Debug/net9.0/DiffieHellmanDemo.deps.json
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/bin/Debug/net9.0/DiffieHellmanDemo.runtimeconfig.json
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/bin/Debug/net9.0/DiffieHellmanDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/bin/Debug/net9.0/DiffieHellmanDemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/DiffieHellmanDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/DiffieHellmanDemo.AssemblyInfoInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/DiffieHellmanDemo.AssemblyInfo.cs
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/DiffieHellmanDemo.csproj.CoreCompileInputs.cache
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/DiffieHellmanDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/refint/DiffieHellmanDemo.dll
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/DiffieHellmanDemo.pdb
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/DiffieHellmanDemo.genruntimeconfig.cache
+/Users/kirillovmihail/EncryptionCoursework/DiffieHellmanDemo/obj/Debug/net9.0/ref/DiffieHellmanDemo.dll
